@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using DreamWallHub.Data.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace DreamWallHub.Data
@@ -9,5 +10,9 @@ namespace DreamWallHub.Data
             : base(options)
         {
         }
+
+        public DbSet<Project> Projects { get; set;}
+
+        public DbSet<Material> Materials { get; set; }
     }
 }
