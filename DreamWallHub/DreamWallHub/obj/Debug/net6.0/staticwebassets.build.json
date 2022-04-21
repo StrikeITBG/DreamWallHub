@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MWcq9Da7OSzDvZgwkiIow/+mFL/TTiYyEiwQXryiWCI=",
+  "Hash": "lZps6RzvhSmeTOJg9DIqN/cq/Q96FBA67zxyExI7UFU=",
   "Source": "DreamWallHub",
   "BasePath": "_content/DreamWallHub",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,7 +1034,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\strik\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DreamWallHub.styles.css",
@@ -1071,12 +1071,12 @@
       "OriginalItemSpec": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DreamWallHub.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\animate.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/animate.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\bootsnav.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "css/bootsnav.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\css\\bootsnav.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\bootstrap.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "js/site.js",
+      "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\flexslider.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "RelativePath": "css/flexslider.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\flexslider.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\iconfont.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "RelativePath": "css/iconfont.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\iconfont.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "RelativePath": "css/magnific-popup.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\plugins.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "RelativePath": "css/plugins.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\plugins.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\responsive.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "RelativePath": "css/responsive.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\ajax-loader.gif",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "css/slick/ajax-loader.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\ajax-loader.gif"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\config.rb",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "css/slick/config.rb",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\config.rb"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\fonts\\slick.eot",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "css/slick/fonts/slick.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\fonts\\slick.eot"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\fonts\\slick.svg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "RelativePath": "css/slick/fonts/slick.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\fonts\\slick.svg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\fonts\\slick.ttf",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "css/slick/fonts/slick.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\fonts\\slick.ttf"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\fonts\\slick.woff",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "css/slick/fonts/slick.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\fonts\\slick.woff"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "css/slick/slick.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick.js",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "css/slick/slick.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick.js"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick.less",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "css/slick/slick.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick.less"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick.min.js",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "css/slick/slick.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick.min.js"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick.scss",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "css/slick/slick.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick.scss"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick-theme.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "css/slick/slick-theme.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick-theme.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick-theme.less",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "css/slick/slick-theme.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick-theme.less"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\slick\\slick-theme.scss",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "css/slick/slick-theme.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\slick\\slick-theme.scss"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\css\\style.css",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\bootstrapThemesCo-icon.eot",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "RelativePath": "fonts/bootstrapThemesCo-icon.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\fonts\\bootstrapThemesCo-icon.eot"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\bootstrapThemesCo-icon.svg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "RelativePath": "fonts/bootstrapThemesCo-icon.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\fonts\\bootstrapThemesCo-icon.svg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\bootstrapThemesCo-icon.ttf",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "RelativePath": "fonts/bootstrapThemesCo-icon.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,15 +1578,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\fonts\\bootstrapThemesCo-icon.ttf"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\bootstrapThemesCo-icon.woff",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "fonts/bootstrapThemesCo-icon.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\fonts\\bootstrapThemesCo-icon.woff"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,15 +1629,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1646,15 +1646,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1663,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,15 +1697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\about-img1.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "RelativePath": "images/about-img1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,15 +1714,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\images\\about-img1.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\cbrand-img1.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "images/cbrand-img1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1731,15 +1731,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\images\\cbrand-img1.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\cbrand-img2.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "RelativePath": "images/cbrand-img2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1748,15 +1748,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\images\\cbrand-img2.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\cbrand-img3.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "RelativePath": "images/cbrand-img3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1765,15 +1765,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\images\\cbrand-img3.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\cbrand-img4.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "RelativePath": "images/cbrand-img4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1782,15 +1782,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\images\\cbrand-img4.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\cbrand-img5.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "RelativePath": "images/cbrand-img5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1799,15 +1799,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\images\\cbrand-img5.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\cbrand-img6.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "RelativePath": "images/cbrand-img6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1816,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\images\\cbrand-img6.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\footer-logo.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "RelativePath": "images/footer-logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1833,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\images\\footer-logo.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\home-bg.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "RelativePath": "images/home-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\images\\home-bg.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\logo.png",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "RelativePath": "images/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\ltst-img-1.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/bootstrap/LICENSE",
+      "RelativePath": "images/ltst-img-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot\\images\\ltst-img-1.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\ltst-img-2.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "images/ltst-img-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\images\\ltst-img-2.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\ltst-img-3.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "images/ltst-img-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\images\\ltst-img-3.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\test-img1.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "images/test-img1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\images\\test-img1.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\test-img2.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery/LICENSE.txt",
+      "RelativePath": "images/test-img2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\images\\test-img2.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\work-img1.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "images/work-img1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\images\\work-img1.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\work-img2.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "images/work-img2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\images\\work-img2.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\work-img3.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "images/work-img3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\images\\work-img3.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\work-img4.jpg",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "images/work-img4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\images\\work-img4.jpg"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\bootsnav.js",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "RelativePath": "js/bootsnav.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\js\\bootsnav.js"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\gmaps.min.js",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "js/gmaps.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\js\\gmaps.min.js"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\isotope.min.js",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "js/isotope.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\js\\isotope.min.js"
     },
     {
-      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\jquery.accordion.js",
       "SourceId": "DreamWallHub",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
       "BasePath": "_content/DreamWallHub",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "js/jquery.accordion.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,7 +2088,211 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\js\\jquery.accordion.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\jquery.collapse.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/jquery.collapse.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.collapse.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\jquery.countdown.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/jquery.countdown.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.countdown.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\jquery.easing.1.3.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/jquery.easing.1.3.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\jquery.easypiechart.min.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/jquery.easypiechart.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.easypiechart.min.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\jquery.magnific-popup.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/jquery.magnific-popup.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\main.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\plugins.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/plugins.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\plugins.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\vendor\\bootstrap.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/vendor/bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/vendor/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/vendor/jquery-1.11.2.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery-1.11.2.min.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/vendor/modernizr-2.8.3-respond-1.4.2.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\js\\vendor\\npm.js",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "js/vendor/npm.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vendor\\npm.js"
     }
   ]
 }
