@@ -1,6 +1,5 @@
 using DreamWallHub.Infrastructure.Data;
 using DreamWallHub.Infrastructure.Data.Identity;
-using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 

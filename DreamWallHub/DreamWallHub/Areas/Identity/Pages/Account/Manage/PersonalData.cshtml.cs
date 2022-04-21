@@ -1,7 +1,9 @@
-﻿using DreamWallHub.Infrastructure.Data.Identity;
+﻿using System.Threading.Tasks;
+using DreamWallHub.Infrastructure.Data.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Logging;
 
 namespace DreamWallHub.Areas.Identity.Pages.Account.Manage
 {
