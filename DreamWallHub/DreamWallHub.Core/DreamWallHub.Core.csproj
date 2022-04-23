@@ -10,9 +10,4 @@
     <ProjectReference Include="..\DreamWallHub.Infrastructure\DreamWallHub.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
-
 </Project>

@@ -1,6 +1,7 @@
-﻿using DreamWallHub.Infrastructure.Data;
-using DreamWallHub.Infrastructure.Data.Identity;
-using Microsoft.AspNetCore.Identity;
+﻿using DreamWallHub.Core.Contracts;
+using DreamWallHub.Core.Services;
+using DreamWallHub.Infrastructure.Data;
+using DreamWallHub.Infrastructure.Data.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace Microsoft.Extensions.DependencyInjection
@@ -9,6 +10,9 @@ namespace Microsoft.Extensions.DependencyInjection
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
+            services.AddScoped<IApplicationDbRepository, ApplicationDbRepository>();
+            services.AddScoped<IRequestOfferService, RequestOfferService>();
+
             return services;
         }
 
