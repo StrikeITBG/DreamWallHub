@@ -78,7 +78,7 @@
                             <div class="navbar-socail text-right sm-text-center">
                                 <ul class="list-inline">
                                     <li><a href="https://www.facebook.com/dreamwallclimbing/"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/dreamwallclimbing/"><i class="fa fa-instagram"></i></a></li>    
+                                    <li><a href="https://www.instagram.com/dreamwallclimbing/"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -110,9 +110,9 @@
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
-                    </button> 
-                    
-                        <a asp-area=""class="navbar-brand" asp-controller="Home" asp-action="Index">
+                    </button>
+
+                    <a asp-area="" class="navbar-brand" asp-controller="Home" asp-action="Index">
                         <img src="~/images/dreamlogo.png" class="logo" alt="">
                         <!--<img src="~/images/footer-logo.png" class="logo logo-scrolled" alt="">-->
                     </a>
@@ -128,7 +128,7 @@
                         <li><a asp-area="" asp-controller="RequestOffer" asp-action="Create">Request Offer</a></li>
                         @if (SignInManager.IsSignedIn(User))
                         {
-                           <li><a asp-area="Identity" asp-page="/Account/Manage/Index">@User.Identity?.Name</a></li>
+                            <li><a asp-area="Identity" asp-page="/Account/Manage/Index">@User.Identity?.Name</a></li>
                             <li class="nav-item">
                                 <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
                                     <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
@@ -159,19 +159,63 @@
             </main>
         </div>
 
-        <footer id="contact" class="footer action-lage bg-black p-top-80">     
-            <div class="main_footer fix bg-mega text-center p-top-40 p-bottom-30 m-top-80">
-                <div class="col-md-12">
-                    <p class="wow fadeInRight" data-wow-duration="1s">
-                        Made with
-                        <i class="fa fa-heart"></i>
-                        by
-                        StrikeIT
-                        2022. All Rights Reserved
-                    </p>
-                </div>
-            </div>
+        <footer id="contact" class="footer action-lage bg-black p-top-80">
+            <!--<div class="action-lage"></div>-->
+            <div class="container">
+                <div class="center-block">
+                    <div class="widget_area">
+                        <div class="col-md-3">
+                            <div class="widget_item widget_about">
+                                <h5 class="text-white">About us</h5>
+                                <p class="m-top-20">
+                                    We are a manufacturing company that was established in 2020 with the purpose of designing and
+                                    manufacturing the most advanced climbing facilities in the world.
+                                    Our team has more then 20 years of experience building climbing walls.
+                                </p>
+                            </div><!-- End off widget item -->
+                        </div><!-- End off col-md-3 -->
+                        <div class="col-md-2">
+                            <div class="widget_item widget_latest sm-m-top-50">
+                                <div class="widget_latst_item m-top-30">
+                                    <div class="item_icon"><i class="fa fa-phone"></i></div>
+                                    <div class="widget_ab_item_text">
+                                        <h6 class="text-white">Phone:</h6>
+                                        <p>+359 899 890 796</p>
+                                    </div>
+                                </div>
+                                <div class="widget_ab_item m-top-30">
+                                    <div class="item_icon"><i class="fa fa-envelope-o"></i></div>
+                                    <div class="widget_ab_item_text">
+                                        <h6 class="text-white">Email Address :</h6>
+                                        <p>
+                                            sales@dreamwallclimbing.com
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <ul class="list-inline m-top-20">
+                                <li><a href="https://www.facebook.com/dreamwallclimbing/"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.instagram.com/dreamwallclimbing/"><i class="fa fa-instagram"></i></a></li>
+                            </ul>
+
+                        </div><!-- End off widget item -->
+                    </div><!-- End off col-md-3 -->
         </footer>
+
+    <footer id="contact" class="footer action-lage bg-black p-top-10">
+        <div class="main_footer fix bg-mega text-center p-top-40 p-bottom-30 m-top-30">
+
+            <div class="col-md-12">
+                <p class="wow fadeInRight" data-wow-duration="1s">
+                    Made with
+                    <i class="fa fa-heart"></i>
+                    by
+                    StrikeIT
+                    2022. All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </footer>
 
 
 

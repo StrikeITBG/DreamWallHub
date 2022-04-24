@@ -104,4 +104,8 @@
     <ProjectReference Include="..\DreamWallHub.Core\DreamWallHub.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\NewFolder\" />
+  </ItemGroup>
+
 </Project>
