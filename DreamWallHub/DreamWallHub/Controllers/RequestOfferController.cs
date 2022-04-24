@@ -15,6 +15,7 @@ namespace DreamWallHub.Controllers
 
         public object MessageConstants { get; private set; }
 
+
         public async Task<IActionResult> Create()
         {
             return View();
@@ -27,7 +28,7 @@ namespace DreamWallHub.Controllers
      
             if (await requestOfferService.CreateRequest(model))
             {
-                return RedirectToAction("Index", "Home");            
+                return RedirectToAction("Index", "Home");                  
             }
 
             return View(model);
