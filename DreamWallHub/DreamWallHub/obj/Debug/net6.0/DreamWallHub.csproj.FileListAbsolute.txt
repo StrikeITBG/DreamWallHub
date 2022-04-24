@@ -68,7 +68,6 @@ D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\Dr
 D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\obj\Debug\net6.0\DreamWallHub.pdb
 D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\obj\Debug\net6.0\DreamWallHub.genruntimeconfig.cache
 D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\obj\Debug\net6.0\ref\DreamWallHub.dll
-D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutOld.cshtml.rz.scp.css
 D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\bin\Debug\net6.0\MessagePack.dll
 D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\bin\Debug\net6.0\MessagePack.Annotations.dll
 D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
