@@ -1,0 +1,56 @@
+﻿@using DreamWallHub.Core.ViewModels
+@model ProjectCreateViewModel
+@{
+    ViewData["Title"] = "Create Project";
+}
+
+<div class="card-outline card-primary" style="width:20% ; margin:0 auto">
+    <div class="card-body">
+        <form id="create" enctype="multipart/form-data" method="post">
+            <hr /><hr /><hr /><hr /> <hr /> <hr /> <hr />
+            <h1 class="text-center text-primary">Create Project</h1>
+            <hr />
+            <div class="form-group">
+                <input type="hidden" asp-for="CreatorId" class="form-control" />
+                <span asp-validation-for="CreatorId" class="text-danger text-red"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProjectName">Project name</label>
+                <span asp-validation-for="ProjectName" class="text-danger text-red"></span>
+                <input asp-for="ProjectName" class="form-control" />
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger text-red"></div>
+            <div class="form-floating">
+                <label asp-for="ClientName" class="form-label">Client name</label>
+                <span asp-validation-for="ClientName" class="text-danger text-red"></span>
+                <input asp-for="ClientName" class="form-control" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Country"></label>
+                <span asp-validation-for="Country" class="text-danger text-red"></span>
+                <input asp-for="Country" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DesignPictureUrl">Design Picture</label>
+                <span asp-validation-for="DesignPictureUrl" class="text-danger text-red"></span>
+                <input asp-for="DesignPictureUrl" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Description"></label>
+                <span asp-validation-for="Description" class="text-danger text-red"></span>
+                <input asp-for="Description" class="form-control" />
+            </div>
+
+            <br />
+            <div class="text-center">
+                <button id="projectSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Create Project</button>
+            </div>
+            <hr />
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+}

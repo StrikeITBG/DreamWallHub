@@ -28,10 +28,9 @@ namespace DreamWallHub.Infrastructure.Data
         public string DateOfCreation { get; set; }
 
         public string? DesignPictureUrl { get; set; }
-
-        [Required]
+    
         [StringLength(2000)]
-        public string Description { get; set; }
+        public string? Description { get; set; }
 
         [Required]
         public ICollection<Material> Materials { get; set; } = new List<Material>();

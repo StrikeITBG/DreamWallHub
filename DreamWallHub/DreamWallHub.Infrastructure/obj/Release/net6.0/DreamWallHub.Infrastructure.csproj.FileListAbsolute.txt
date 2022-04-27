@@ -1,0 +1,12 @@
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\bin\Release\net6.0\DreamWallHub.Infrastructure.deps.json
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\bin\Release\net6.0\DreamWallHub.Infrastructure.dll
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\bin\Release\net6.0\DreamWallHub.Infrastructure.pdb
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.csproj.AssemblyReference.cache
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.AssemblyInfoInputs.cache
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.AssemblyInfo.cs
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.dll
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\refint\DreamWallHub.Infrastructure.dll
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\DreamWallHub.Infrastructure.pdb
+D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub.Infrastructure\obj\Release\net6.0\ref\DreamWallHub.Infrastructure.dll

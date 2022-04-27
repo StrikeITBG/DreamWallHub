@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DreamWallHub20220427174326" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Study\\C\#\ WEB\ Module\\ASP\.NET\ Core\ -\ February\ 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

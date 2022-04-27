@@ -183,7 +183,6 @@ namespace DreamWallHub.Infrastructure.Migrations
                         .HasColumnType("nvarchar(60)");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasMaxLength(2000)
                         .HasColumnType("nvarchar(2000)");
 
