@@ -12,6 +12,7 @@ namespace Microsoft.Extensions.DependencyInjection
         {
             services.AddScoped<IApplicationDbRepository, ApplicationDbRepository>();
             services.AddScoped<IRequestOfferService, RequestOfferService>();
+            services.AddScoped<IAdminService, AdminService>();
 
             return services;
         }

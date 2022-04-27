@@ -69,6 +69,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Areas\Admin\Views\Admin\Edit.cshtml" />
+    <None Include="Areas\Admin\Views\Admin\ManageUsers.cshtml" />
+    <None Include="Areas\Admin\Views\Admin\Roles.cshtml" />
+    <None Include="Areas\Admin\Views\Home\Index.cshtml" />
+    <None Include="Areas\Admin\Views\_ViewImports.cshtml" />
+    <None Include="Areas\Admin\Views\_ViewStart.cshtml" />
     <None Include="wwwroot\css\bootstrap.css.map" />
     <None Include="wwwroot\css\bootstrap.min.css.map" />
     <None Include="wwwroot\css\slick\config.rb" />

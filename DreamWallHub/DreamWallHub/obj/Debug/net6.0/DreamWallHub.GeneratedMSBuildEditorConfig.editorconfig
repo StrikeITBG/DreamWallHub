@@ -15,6 +15,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Study\C# WEB Module\ASP.NET Core - February 2022\DreamWallHub\DreamWallHub\DreamWallHub
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Admin/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Admin/Views/Admin/ManageUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Admin/Views/Admin/Roles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

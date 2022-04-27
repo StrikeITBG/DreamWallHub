@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page of Admin Area";
+}
+
+<section id="home" class="home bg-black fix">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 main_home text-center" style="color:white;">
+                <div class="text-center">
+                    <h1 class="display-4">Welcome to Admin Area.</h1>
+                </div>
+
+                <ul>
+                    <li class="active"><a asp-area="Admin" asp-controller="Admin" asp-action="ManageUsers">Manage User's Roles</a></li>
+                </ul>
+            </div>
+        </div><!--End off row-->
+    </div><!--End off container -->
+</section> <!--End off Home Sections-->
