@@ -14,6 +14,8 @@ namespace Microsoft.Extensions.DependencyInjection
             services.AddScoped<IRequestOfferService, RequestOfferService>();
             services.AddScoped<IAdminService, AdminService>();
             services.AddScoped<IProjectService, ProjectService>();
+            services.AddScoped<IMaterialService, MaterialService>();
+
 
             return services;
         }

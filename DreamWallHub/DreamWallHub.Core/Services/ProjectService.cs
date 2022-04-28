@@ -12,10 +12,8 @@ namespace DreamWallHub.Core.Services
     public class ProjectService : IProjectService
     {
         private readonly IApplicationDbRepository repo;
-      
-
+     
         private readonly ApplicationDbContext db;
-
 
         public ProjectService(IApplicationDbRepository repo, ApplicationDbContext db)
         {

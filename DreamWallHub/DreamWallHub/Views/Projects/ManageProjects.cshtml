@@ -1,48 +1,57 @@
 ﻿@using DreamWallHub.Core.ViewModels
 @model IEnumerable<AllProjectViewModel>
 
-<section id="home" class="home bg-black fix">
-    <div class="container">
-        <div class="row">
+@{
+    Layout = "_Layout";
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 9pt;
+            margin-left: auto;
+            margin-right: auto;
+            text-align center;
+        }
+    </style>
+</head>
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+
+<body>
+
+    <h1 class="text-center text-primary">Projects</h1>
+    <hr />
+    <div id="Grid" class="text-center">
+        <table cellpadding="5" cellspacing="0" style="border: 5px solid #ccc;font-size: 9pt;">
+            <tr>
+                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Project Name</th>
+                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Client Name</th>
+                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Country</th>
+                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Created by</th>
+                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Date of Creation</th>
+                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Description</th>
+
+            </tr>
             @foreach (var project in Model)
-
             {
-                <div class="col-lg-3">
-                    @if (project.DesignPictureUrl != null)
-                    {
-                        <div class="anime__details__pic set-bg" data-setbg="@project.DesignPictureUrl">
-                            @*<div class="comment"><i class="fa fa-comments"></i> @Model.Anime.Reviews.Count()</div>*@
-                        </div>
-                    }
-                    else
-                    {
-                        @*<div class="anime__details__pic set-bg" data-setbg="~/img/default-150x150">
-                            <div class="comment"><i class="fa fa-comments"></i> @project.Anime.Reviews.Count</div>
-                            </div>*@
-                    }
-                </div>
-                <div class="col-lg-9">
-                    <h3>@project.ProjectName</h3>
-                    <br />
-                    <p>
-                        @project.Description
-                    </p>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <ul>
-                                <li><span>Client Name:</span> @project.ClientName</li>
-
-                            </ul>
-                        </div>
-                        <div class="col-lg-6 col-md-6">
-                            <ul>
-                                <li><span>Country:</span> @project.Country </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                <tr>
+                    <td style="width:120px;border: 1px solid #ccc">@project.ProjectName</td>
+                    <td style="width:120px;border: 1px solid #ccc">@project.ClientName</td>
+                    <td style="width:120px;border: 1px solid #ccc">@project.Country</td>
+                    <td style="width:120px;border: 1px solid #ccc">@project.CreatorName</td>
+                    <td style="width:120px;border: 1px solid #ccc">@project.DateOfCreation </td>
+                    <td style="width:120px;border: 1px solid #ccc">@project.Description</td>
+                </tr>
             }
-        </div>
+        </table>
     </div>
-</section>
+    <br />
+    <br />
+</body>
