@@ -8,7 +8,7 @@
 <h4>@ViewData["Title"]</h4>
 <partial name="_StatusMessage" model="Model.StatusMessage" />
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-12">
         <form id="email-form" method="post" style="width:20% ; margin:0 auto">
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
@@ -31,7 +31,7 @@
                 <input asp-for="Input.NewEmail" class="form-control" />
                 <span asp-validation-for="Input.NewEmail" class="text-danger"></span>
             </div>
-            <button id="change-email-button" type="submit" asp-page-handler="ChangeEmail" class="btn btn-default">Change email</button>
+            <button id="change-email-button" type="submit" asp-page-handler="ChangeEmail" class="btn btn-primary">Change email</button>
         </form>
     </div>
 </div>
