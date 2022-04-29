@@ -2,20 +2,20 @@
     ViewData["Title"] = "Home Page of Admin Area";
 }
 
-<section id="home" class="home bg-black fix">
+@{
+    Layout = "_Layout";
+}
+<hr /><hr /><hr /><hr /><hr />
+<h4 class="text-center text-primary">Control Panel </h4>  
+<section id="action" class="action bg-primary roomy-50">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12 main_home text-center" style="color:white;">
-                <div class="text-center">
-                    <h4 class="display-4">Welcome to Control Panel.</h4>
-                </div>
+           
+            <button class="active"><a asp-area="Admin" asp-controller="Admin" asp-action="ManageUsers">Manage User's Roles</a></button>
+            <button class="active"><a asp-area="" asp-controller="Projects" asp-action="CreateProjects">Create project</a></button>
+            <button class="active" type="submit"><a asp-area="" asp-controller="Projects" asp-action="ManageProjects">Projects</a></button>
+            <button class="active" type="submit"><a asp-area="" asp-controller="Projects" asp-action="ManageProjects">Edit Project</a></button>
+    </div>
+</section>
 
-                <ul>
-                    <li class="active"><a asp-area="Admin" asp-controller="Admin" asp-action="ManageUsers">Manage User's Roles</a></li>
-                     <li class="active"><a asp-area="" asp-controller="Projects" asp-action="CreateProjects">Create project</a></li>
-                       <li class="active"><a asp-area="" asp-controller="Projects" asp-action="ManageProjects">Manage projects</a></li>
-                </ul>
-            </div>
-        </div><!--End off row-->
-    </div><!--End off container -->
-</section> <!--End off Home Sections-->
+
+

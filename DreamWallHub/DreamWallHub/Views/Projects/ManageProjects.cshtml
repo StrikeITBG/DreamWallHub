@@ -5,53 +5,43 @@
     Layout = "_Layout";
 }
 
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-    <style type="text/css">
-        body {
-            font-family: Arial;
-            font-size: 9pt;
-            margin-left: auto;
-            margin-right: auto;
-            text-align center;
-        }
-    </style>
-</head>
 <hr />
 <hr />
 <hr />
 <hr />
 <hr />
 
-<body>
-
-    <h1 class="text-center text-primary">Projects</h1>
-    <hr />
-    <div id="Grid" class="text-center">
-        <table cellpadding="5" cellspacing="0" style="border: 5px solid #ccc;font-size: 9pt;">
-            <tr>
-                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Project Name</th>
-                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Client Name</th>
-                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Country</th>
-                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Created by</th>
-                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Date of Creation</th>
-                <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Description</th>
-
-            </tr>
-            @foreach (var project in Model)
-            {
+<section id="action" class="action bg-primary roomy-30">
+    <div class="container">
+        <h1 class="text-center">Projects</h1>
+        <hr />
+        <div id="Grid" class="text-center">
+            <table cellpadding="5" cellspacing="0" style="border: 5px solid #ccc;font-size: 9pt;">
                 <tr>
-                    <td style="width:120px;border: 1px solid #ccc">@project.ProjectName</td>
-                    <td style="width:120px;border: 1px solid #ccc">@project.ClientName</td>
-                    <td style="width:120px;border: 1px solid #ccc">@project.Country</td>
-                    <td style="width:120px;border: 1px solid #ccc">@project.CreatorName</td>
-                    <td style="width:120px;border: 1px solid #ccc">@project.DateOfCreation </td>
-                    <td style="width:120px;border: 1px solid #ccc">@project.Description</td>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Project Name</th>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Client Name</th>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Country</th>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Created by</th>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Date of Creation</th>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Description</th>
+
                 </tr>
-            }
-        </table>
+                @foreach (var project in Model)
+                {
+                    <tr>
+                        <td style="width:120px;border: 1px solid #ccc">@project.ProjectName</td>
+                        <td style="width:120px;border: 1px solid #ccc">@project.ClientName</td>
+                        <td style="width:120px;border: 1px solid #ccc">@project.Country</td>
+                        <td style="width:120px;border: 1px solid #ccc">@project.CreatorName</td>
+                        <td style="width:120px;border: 1px solid #ccc">@project.DateOfCreation </td>
+                        <td style="width:120px;border: 1px solid #ccc">@project.Description</td>
+                    </tr>
+                }
+            </table>
+             <hr />
+        </div>
+        <br />
+        <br />
     </div>
-    <br />
-    <br />
-</body>
+    <
+</section>
