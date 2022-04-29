@@ -4,6 +4,7 @@ using DreamWallHub.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DreamWallHub.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220429193135_updatedreviews")]
+    partial class updatedreviews
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -27,7 +29,7 @@ namespace DreamWallHub.Infrastructure.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("Date")
+                    b.Property<string>("CreatedOn")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -37,7 +39,6 @@ namespace DreamWallHub.Infrastructure.Migrations
                         .HasColumnType("nvarchar(300)");
 
                     b.Property<string>("ReviewId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("UserId")
@@ -410,19 +411,15 @@ namespace DreamWallHub.Infrastructure.Migrations
 
             modelBuilder.Entity("DreamWallHub.Infrastructure.Data.Comment", b =>
                 {
-                    b.HasOne("DreamWallHub.Infrastructure.Data.Review", "Review")
+                    b.HasOne("DreamWallHub.Infrastructure.Data.Review", null)
                         .WithMany("Comments")
-                        .HasForeignKey("ReviewId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .HasForeignKey("ReviewId");
 
                     b.HasOne("DreamWallHub.Infrastructure.Data.Identity.ApplicationUser", "User")
                         .WithMany("Comments")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Review");
 
                     b.Navigation("User");
                 });
@@ -447,7 +444,7 @@ namespace DreamWallHub.Infrastructure.Migrations
                     b.HasOne("DreamWallHub.Infrastructure.Data.Project", "Project")
                         .WithMany("Reviews")
                         .HasForeignKey("ProjectId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Creator");

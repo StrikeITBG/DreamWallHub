@@ -1,9 +1,11 @@
 ﻿using DreamWallHub.Core.Constants;
 using DreamWallHub.Core.Contracts;
 using DreamWallHub.Core.ViewModels;
+using DreamWallHub.Infrastructure.Data;
 using DreamWallHub.Infrastructure.Data.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Dynamic;
 using System.Security.Claims;
 
 namespace DreamWallHub.Controllers
@@ -11,22 +13,49 @@ namespace DreamWallHub.Controllers
     public class ProjectsController : BaseController
     {
         private readonly IProjectService projectService;
+        private readonly IReviewService reviewService;
         private readonly IHttpContextAccessor httpContextAccessor;
         private readonly UserManager<ApplicationUser> userManager;
 
-        public ProjectsController(IProjectService projectService, IHttpContextAccessor httpContextAccessor, UserManager<ApplicationUser> userManager)
+        public ProjectsController(IProjectService projectService, IHttpContextAccessor httpContextAccessor, UserManager<ApplicationUser> userManager, IReviewService reviewService = null)
         {
             this.projectService = projectService;
             this.httpContextAccessor = httpContextAccessor;
             this.userManager = userManager;
+            this.reviewService = reviewService;
         }
 
         [HttpGet]
-        public async Task<IActionResult> Projects()
+        public async Task<IActionResult> Projects(string id)
         {
-            var projects = await projectService.GetProjects();
+            dynamic mymodel = new ExpandoObject();
+            mymodel.Anime = await projectService.GetProjectById(id);
+            mymodel.Reviews = await reviewService.GetReviewsByProjectId(id);
 
-            return View(projects);
+            return View(mymodel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Projects(Review model)
+        {
+            ClaimsPrincipal? userContext = httpContextAccessor.HttpContext?.User;
+            ApplicationUser? user = await userManager.GetUserAsync(userContext);
+
+            model.CreatorId = user.Id;
+
+            ViewBag.Description = model.Description;
+
+            if (await reviewService.AddReviewToProject(model))
+            {
+                ViewData[MessageConstant.SuccessMessage] = "Успешен запис!";
+                return RedirectToAction(nameof(Projects), new { model.ProjectId });
+            }
+            else
+            {
+                ViewData[MessageConstant.ErrorMessage] = "Възникна грешка!";
+            }
+
+            return RedirectToAction(nameof(Projects), new { model.ProjectId });
         }
 
         [HttpGet]

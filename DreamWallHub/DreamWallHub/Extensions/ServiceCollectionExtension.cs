@@ -15,8 +15,8 @@ namespace Microsoft.Extensions.DependencyInjection
             services.AddScoped<IAdminService, AdminService>();
             services.AddScoped<IProjectService, ProjectService>();
             services.AddScoped<IMaterialService, MaterialService>();
-
-
+            services.AddScoped<IReviewService, ReviewService>();
+            services.AddScoped<ICommentService, CommentService>();
             return services;
         }
 

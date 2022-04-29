@@ -35,6 +35,6 @@ namespace DreamWallHub.Infrastructure.Data
         [Required]
         public ICollection<Material> Materials { get; set; } = new List<Material>();
 
-
+        public ICollection<Review> Reviews { get; set; } = new List<Review>();
     }
 }
