@@ -13,7 +13,7 @@
 <div class="container">
 		<div class="details__content">
 			<div class="row">
-				<div class="col-lg-3">
+				@*<div class="col-lg-3">
 					@if (Model.Project.Image != null)
 					{
 						<div class="details__pic set-bg" data-setbg="@Model.Project.Image">
@@ -24,11 +24,11 @@
 						<div class="details__pic set-bg" data-setbg="~/img/default-150x150">
 						</div>
 					}
-				</div>
+				</div>*@
 				<div class="col-lg-9">
 					<div class="details__text">
 						<div class="details__title">
-							<h3>@Model.Project.Name</h3>
+							<h3>@Model.Project.ProjectName</h3>
 						</div>
 
 						<p>
@@ -74,7 +74,7 @@
 					{
 						<div class="review__item">
 							<div class="review__item__text">
-								<h6>@review.UserName <span>@review.Date</span> <span class="float-right text-white text-bold">Score: @review.Score</span></h6>
+								<h6>@review.UserName <span>@review.Date</span></h6>
 								<p>
 									<textarea name="Description" class="custom-text-area" disabled>@review.Description</textarea>
 								</p>

@@ -104,25 +104,14 @@ namespace DreamWallHub.Areas.Admin.Controllers
             return View(model);
         }
 
-        //[HttpPost]
-        //public async Task<IActionResult> CreateRole(string roleName)
-        //{
-        //    if (roleName != null)
-        //    {
-        //        await roleManager.CreateAsync(new IdentityRole(roleName.Trim()));
-        //    }
+        public async Task<IActionResult> CreateRole()
+        {
+            await roleManager.CreateAsync(new IdentityRole()
+            {
+                Name = "Admin"
+            });
 
-        //    return RedirectToAction(nameof(ManageUsers));
-        //}
-
-        //public async Task<IActionResult> CreateRole()
-        //{
-        //    await roleManager.CreateAsync(new IdentityRole()
-        //    {
-        //        Name = "Editor"
-        //    });
-
-        //    return RedirectToAction(nameof(ManageUsers));
-        //}
+            return RedirectToAction(nameof(ManageUsers));
+        }
     }
 }

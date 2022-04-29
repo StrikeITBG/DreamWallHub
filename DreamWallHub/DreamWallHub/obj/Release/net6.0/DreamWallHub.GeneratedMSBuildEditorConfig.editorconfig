@@ -111,8 +111,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/About/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Comment/ReviewComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxSZXZpZXdDb21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Home/Index.cshtml]
@@ -123,8 +127,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Materials/AddMaterials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzXEFkZE1hdGVyaWFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Projects/AllProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQWxsUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Projects/CreateProjects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3JlYXRlUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Projects/EditProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRWRpdFByb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Projects/ManageProjects.cshtml]
@@ -135,12 +151,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcTXlQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Projects/Projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdHMuY3NodG1s
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Projects/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/RequestOffer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdE9mZmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Review/ManageReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XE1hbmFnZVJldmlld3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/C\# WEB Module/ASP.NET Core - February 2022/DreamWallHub/DreamWallHub/DreamWallHub/Views/Shared/Error.cshtml]

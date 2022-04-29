@@ -2,11 +2,14 @@
 using DreamWallHub.Core.Contracts;
 using DreamWallHub.Core.ViewModels;
 using DreamWallHub.Infrastructure.Data.Identity;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DreamWallHub.Controllers
 {
+
+    [Authorize(Roles = "Admin")]
     public class MaterialsController : BaseController
     {
         private readonly IMaterialService materialService;
@@ -22,7 +25,7 @@ namespace DreamWallHub.Controllers
             this.materialService = materialService;
             this.userManager = userManager;
         }
-
+        
         [HttpGet]
         public async Task<IActionResult> Materials()
         {

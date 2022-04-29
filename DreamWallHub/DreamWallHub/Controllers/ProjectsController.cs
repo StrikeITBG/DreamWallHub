@@ -3,6 +3,7 @@ using DreamWallHub.Core.Contracts;
 using DreamWallHub.Core.ViewModels;
 using DreamWallHub.Infrastructure.Data;
 using DreamWallHub.Infrastructure.Data.Identity;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Dynamic;
@@ -26,17 +27,25 @@ namespace DreamWallHub.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Projects(string id)
+        public async Task<IActionResult> AllProjects()
+        {
+            var projects = await projectService.GetProjects();
+
+            return View(projects);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Project(string id)
         {
             dynamic mymodel = new ExpandoObject();
-            mymodel.Anime = await projectService.GetProjectById(id);
+            mymodel.Project = await projectService.GetProjectById(id);
             mymodel.Reviews = await reviewService.GetReviewsByProjectId(id);
 
             return View(mymodel);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Projects(Review model)
+        public async Task<IActionResult> Project(Review model)
         {
             ClaimsPrincipal? userContext = httpContextAccessor.HttpContext?.User;
             ApplicationUser? user = await userManager.GetUserAsync(userContext);
@@ -48,22 +57,24 @@ namespace DreamWallHub.Controllers
             if (await reviewService.AddReviewToProject(model))
             {
                 ViewData[MessageConstant.SuccessMessage] = "Успешен запис!";
-                return RedirectToAction(nameof(Projects), new { model.ProjectId });
+                return RedirectToAction(nameof(Project), new { model.ProjectId });
             }
             else
             {
                 ViewData[MessageConstant.ErrorMessage] = "Възникна грешка!";
             }
 
-            return RedirectToAction(nameof(Projects), new { model.ProjectId });
+            return RedirectToAction(nameof(Project), new { model.ProjectId });
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> CreateProjects()
         {
             return View();
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreateProjects(ProjectCreateViewModel model)
@@ -91,6 +102,7 @@ namespace DreamWallHub.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> ManageProjects()
         {
@@ -99,6 +111,7 @@ namespace DreamWallHub.Controllers
             return View(projects);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> EditProjects(string id)
         {
@@ -107,6 +120,7 @@ namespace DreamWallHub.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> EditProjects(ProjectEditViewModel model)

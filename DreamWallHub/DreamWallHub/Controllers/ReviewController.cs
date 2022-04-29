@@ -1,8 +1,10 @@
 ﻿using DreamWallHub.Core.Contracts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DreamWallHub.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class ReviewController : BaseController
     {
         private readonly IReviewService reviewService;
