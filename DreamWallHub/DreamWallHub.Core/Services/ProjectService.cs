@@ -12,7 +12,7 @@ namespace DreamWallHub.Core.Services
     public class ProjectService : IProjectService
     {
         private readonly IApplicationDbRepository repo;
-     
+
         private readonly ApplicationDbContext db;
 
         public ProjectService(IApplicationDbRepository repo, ApplicationDbContext db)
@@ -35,7 +35,7 @@ namespace DreamWallHub.Core.Services
             {
                 ProjectName = model.ProjectName,
                 ClientName = model.ClientName,
-                Country = model.Country,  
+                Country = model.Country,
                 Description = model.Description,
                 DesignPictureUrl = model.DesignPictureUrl,
                 Id = model.Id,
@@ -55,9 +55,32 @@ namespace DreamWallHub.Core.Services
             return await repo.GetByIdAsync<Project>(id);
         }
 
-        public Task<ProjectEditViewModel> GetProjectForEdit(string id)
+        public async Task<ProjectEditViewModel> GetProjectForEdit(string id)
         {
-            throw new NotImplementedException();
+            var project = db.Projects.Where(x => x.Id == id).FirstOrDefault();
+
+            if (project == null)
+            {
+                throw new ArgumentNullException(nameof(project));
+            }
+
+            var material = repo.All<Material>().Where(m => m.Project.Id == id).FirstOrDefault();
+
+            var projextExist = new ProjectEditViewModel()
+            {
+                Id = id,
+                ClientName = project.ClientName,
+                Country = project.Country,
+                Description = project.Description,
+                MaterialId = material == null ? "" : material.Id,
+                Materials = repo.All<Material>(),
+                ProjectName = project.ProjectName,
+                DesignPictureUrl = project.DesignPictureUrl,
+
+            };
+
+            return projextExist;
+
         }
 
         public async Task<IEnumerable<AllProjectViewModel>> GetProjects()
@@ -67,12 +90,12 @@ namespace DreamWallHub.Core.Services
             var projectView = await projects.Select(project => new AllProjectViewModel()
             {
                 Id = project.Id,
-                ClientName= project.ClientName,
+                ClientName = project.ClientName,
                 Country = project.Country,
                 CreatorName = project.CreatorName,
-                DateOfCreation= project.DateOfCreation,
+                DateOfCreation = project.DateOfCreation,
                 Description = project.Description,
-                DesignPictureUrl= project.DesignPictureUrl,
+                DesignPictureUrl = project.DesignPictureUrl,
                 ProjectName = project.ProjectName,
             })
                 .OrderByDescending(project => project.Id)
@@ -81,9 +104,40 @@ namespace DreamWallHub.Core.Services
             return projectView;
         }
 
-        public Task<bool> UpdateProject(ProjectEditViewModel model)
+        public async Task<bool> UpdateProject(ProjectEditViewModel model)
         {
-            throw new NotImplementedException();
+            bool result = false;
+
+            var project = await repo.GetByIdAsync<Project>(model.Id);
+
+            if (project != null)
+            {
+              project.ProjectName = model.ProjectName;
+                project.Description = model.Description;
+                project.DesignPictureUrl = model.DesignPictureUrl;
+                project.ClientName = model.ClientName;
+                project.Country = model.Country;
+                project.Id = model.Id;
+
+
+                var materialToEdit = await repo.GetByIdAsync<Material>(model.MaterialId);
+                if (materialToEdit != null)
+                {
+                    materialToEdit.Project = project;
+                }
+
+
+                // for model.Id (project id), select first material - select * from materials where projectId = model.Id limit 1
+                // if there are no materials (above query returns empty set) - create record in materials table - insert into materials values(, model.Metal, model.Fastenrs)
+                // else update first material - update existing Materils Entity with data from model(ProjectEditViewModel)
+
+
+                await repo.SaveChangesAsync();
+
+                result = true;
+            }
+
+            return result;
         }
 
 
@@ -98,5 +152,7 @@ namespace DreamWallHub.Core.Services
 
             return true;
         }
+
+       
     }
 }

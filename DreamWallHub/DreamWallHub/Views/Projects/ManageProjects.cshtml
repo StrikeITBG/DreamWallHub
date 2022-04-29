@@ -24,6 +24,7 @@
                     <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Created by</th>
                     <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Date of Creation</th>
                     <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Description</th>
+                    <th style="background-color: #B8DBFD;border: 3px  solid #ccc; text-align: center">Actions</th>
 
                 </tr>
                 @foreach (var project in Model)
@@ -35,6 +36,9 @@
                         <td style="width:120px;border: 1px solid #ccc">@project.CreatorName</td>
                         <td style="width:120px;border: 1px solid #ccc">@project.DateOfCreation </td>
                         <td style="width:120px;border: 1px solid #ccc">@project.Description</td>
+                        <td>
+                            <a asp-area="" asp-action="EditProjects" asp-controller="Projects" asp-route-id="@project.Id" class="btn btn-block btn-outline-info btn-xs">Edit</a>
+                        </td>
                     </tr>
                 }
             </table>

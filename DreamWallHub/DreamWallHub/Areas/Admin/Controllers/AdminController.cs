@@ -44,7 +44,8 @@ namespace DreamWallHub.Areas.Admin.Controllers
             var model = new EditRolesViewModel()
             {
                 UserId = user.Id,
-                UserName = user.UserName
+                UserName = user.UserName,
+             
             };
 
 
@@ -75,6 +76,7 @@ namespace DreamWallHub.Areas.Admin.Controllers
             return RedirectToAction(nameof(ManageUsers));
         }
 
+        [HttpGet]
         public async Task<IActionResult> Edit(string id)
         {
             var model = await service.GetUserForEdit(id);

@@ -8,21 +8,21 @@ namespace DreamWallHub.Core.Services
 {
     public class AdminService : IAdminService
     {
-        private readonly IApplicationDbRepository db;
+        private readonly IApplicationDbRepository repo;
 
-        public AdminService(IApplicationDbRepository _db)
+        public AdminService(IApplicationDbRepository _repo)
         {
-            db = _db;
+            repo = _repo;
         }
 
         public async Task<ApplicationUser> GetUserById(string id)
         {
-            return await db.GetByIdAsync<ApplicationUser>(id);
+            return await repo.GetByIdAsync<ApplicationUser>(id);
         }
 
         public async Task<UserEditViewModel> GetUserForEdit(string id)
         {
-            var user = await db.GetByIdAsync<ApplicationUser>(id);
+            var user = await repo.GetByIdAsync<ApplicationUser>(id);
 
             return new UserEditViewModel()
             {
@@ -35,7 +35,7 @@ namespace DreamWallHub.Core.Services
 
         public async Task<IEnumerable<UserListViewModel>> GetUsers()
         {
-            return await db.All<ApplicationUser>()
+            return await repo.All<ApplicationUser>()
                 .Select(u => new UserListViewModel()
                 {
                     UserId = u.Id,
@@ -49,7 +49,7 @@ namespace DreamWallHub.Core.Services
         public async Task<bool> UpdateUser(UserEditViewModel model)
         {
             bool result = false;
-            var user = await db.GetByIdAsync<ApplicationUser>(model.UserId);
+            var user = await repo.GetByIdAsync<ApplicationUser>(model.UserId);
 
             if (user != null)
             {
@@ -57,7 +57,7 @@ namespace DreamWallHub.Core.Services
                 user.FirstName = model.FirstName;
                 user.LastName = model.LastName;
 
-                await db.SaveChangesAsync();
+                await repo.SaveChangesAsync();
                 result = true;
             }
 

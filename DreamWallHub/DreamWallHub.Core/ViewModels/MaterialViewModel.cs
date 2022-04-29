@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,6 +27,5 @@ namespace DreamWallHub.Core.ViewModels
         [Required]
         [Range(0, 10000)]
         public double Fasteners { get; set; }
-
     }
 }

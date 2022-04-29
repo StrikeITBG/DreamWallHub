@@ -15,6 +15,8 @@ namespace DreamWallHub.Core.ViewModels
         public string Country { get; set; }
         public string? DesignPictureUrl { get; set; }
         public string Description { get; set; }
-        public ICollection<Material> Materials { get; set; } = new List<Material>();
+        public string MaterialId { get; set; }
+        public IQueryable<Material> Materials { get; set; }
+
     }
 }

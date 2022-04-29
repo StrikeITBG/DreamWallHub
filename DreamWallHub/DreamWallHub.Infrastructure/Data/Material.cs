@@ -22,5 +22,8 @@ namespace DreamWallHub.Infrastructure.Data
         [Required]
         [Range(0, 10000)]
         public double Fasteners { get; set; }
+
+
+        public Project? Project { get; set; }
     }
 }

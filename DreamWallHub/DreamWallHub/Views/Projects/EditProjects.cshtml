@@ -1,0 +1,58 @@
+﻿@using DreamWallHub.Core.ViewModels
+@model ProjectEditViewModel 
+@{
+	ViewData["Title"] = "Project Edit";
+	
+}
+
+<div class="container">
+<div class="row">
+	<div class="col-7 text-white">
+		<form id="edit" enctype="multipart/form-data" method="post">
+			<input type="hidden" asp-for="Id" name="Id" value="@Model.Id"/>
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-floating">
+				<label asp-for="ClientName" class="form-label"></label>
+				<input asp-for="ClientName" class="form-control" aria-required="true" />
+				<span asp-validation-for="ClientName" class="text-danger"></span>
+			</div>
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-floating">
+				<label asp-for="Country" class="form-label"></label>
+				<input asp-for="Country" class="form-control" aria-required="true" />
+				<span asp-validation-for="Country" class="text-danger"></span>
+			</div>
+			<div class="form-floating">
+				<label asp-for="Description" class="form-label"></label>
+				<input asp-for="Description" class="form-control" aria-required="true" />
+				<span asp-validation-for="Description" class="text-danger"></span>
+			</div>
+			<div class="form-floating">
+				<label asp-for="DesignPictureUrl" class="form-label"></label>
+				<input asp-for="DesignPictureUrl" class="form-control" aria-required="true" />
+				<span asp-validation-for="DesignPictureUrl" class="text-danger"></span>
+			</div>
+			<div class="form-floating">
+				<label asp-for="ProjectName" class="form-label"></label>
+				<input asp-for="ProjectName" class="form-control" aria-required="true" />
+				<span asp-validation-for="ProjectName" class="text-danger"></span>
+			</div>
+
+			<select id="MaterialId" asp-for="MaterialId" asp-items =@(new SelectList((from m in Model.Materials select new { 
+    ID=m.Id,
+    FullName = "Metal: " + m.Metal + "  Paint: " + m.Paint + "  Plywood: " + m.Plywood +   "  Fasteners: " + m.Fasteners }), "ID", "FullName")) class="form-control">
+				 <option>Please select one</option>
+			</select>
+			<div class="row">
+				<div class="col-4">
+					<button id="edit-submit" type="submit" class="btn btn-primary btn-block">Edit</button>
+				</div>
+				<!-- /.col -->
+			</div>
+		</form>
+	</div>
+</div>
+</div>
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+}

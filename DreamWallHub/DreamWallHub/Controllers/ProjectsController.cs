@@ -69,5 +69,31 @@ namespace DreamWallHub.Controllers
 
             return View(projects);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> EditProjects(string id)
+        {
+            var model = await projectService.GetProjectForEdit(id);
+
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> EditProjects(ProjectEditViewModel model)
+        {
+
+            if (await projectService.UpdateProject(model))
+            {
+                ViewData[MessageConstant.SuccessMessage] = "Успешен запис!";
+                return RedirectToAction(nameof(ManageProjects));
+            }
+            else
+            {
+                ViewData[MessageConstant.ErrorMessage] = "Възникна грешка!";
+            }
+
+            return View(model);
+        }
     }
 }

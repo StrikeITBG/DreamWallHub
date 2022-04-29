@@ -17,6 +17,10 @@ namespace DreamWallHub.Controllers
         {
             return View();
         }
+        public async Task<IActionResult> About()
+        {
+            return View();
+        }
 
         public async Task<IActionResult> Privacy()
         {
