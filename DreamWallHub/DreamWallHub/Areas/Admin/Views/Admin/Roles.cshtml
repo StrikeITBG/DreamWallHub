@@ -8,34 +8,34 @@
 <hr />
 <hr />
 <hr />
+<hr />
+<hr />
+<div class="card-outline card-primary" style="width:20% ; margin:0 auto">
 
-<section id="action" class="action bg-primary roomy-50">
-    <div class="container">
-        <div class="row">
-            <div class="col-4">
-                <form id="roles" method="post">
-                    <input type="hidden" name="UserId" value="@Model.UserId" />
-                    <input type="hidden" name="Name" value="@Model.UserName" />
-                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                    <div class="form-floating text-white">
-                        <h3>User: @Html.DisplayFor(m => m.UserName)</h3>
-                    </div>
-                    <div class="form-floating">
-                        <div class="form-group">
-                            <label class="text-white">User Roles</label>
-                            <select asp-for="RoleNames" asp-items="@items" class="form-control text-black">
-                            </select>
-                        </div>
-                    </div>
-                    <div class="row">&nbsp;</div>
-                    <div class="row">
-                        <div class="col-4">
-                            <button id="login-submit" type="submit" class="btn btn-primary btn-block">Submit</button>
-                        </div>
-                        <!-- /.col -->
-                    </div>
-                </form>
+    <div class="card-body">
+        <form id="roles" method="post">
+            <input type="hidden" name="UserId" value="@Model.UserId" />
+            <input type="hidden" name="Name" value="@Model.UserName" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating text-white text-center">
+                <h3>User Name: @Html.DisplayFor(m => m.UserName)</h3>
             </div>
-        </div>
+            <div class="form-floating">
+                <div class="form-group">
+                    <label class="text-black">User Roles</label>
+                    <select asp-for="RoleNames" asp-items="@items" class="form-control text-black">
+                    </select>
+                </div>
+            </div>
+            <hr />
+            <div class="row">&nbsp;</div>
+            <div class="row">
+                <div class="col-4">
+                    <button id="login-submit" type="submit" class="btn btn-primary btn-block">Submit</button>
+                </div>
+                <hr />
+                <!-- /.col -->
+            </div>
+        </form>
     </div>
-</section>
+</div>

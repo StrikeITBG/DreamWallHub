@@ -123,12 +123,12 @@
 
                         @if (SignInManager.IsSignedIn(User))
                         {
-                            <li><a asp-area="" asp-controller="Projects" asp-action="Projects">My Projects</a></li>
+                            @*<li><a asp-area="" asp-controller="Projects" asp-action="Projects">My Projects</a></li>*@
                             <li>
-                                @*@if (User.IsInRole("Admin"))
-                                    {*@
+                                @if (User.IsInRole("Admin"))
+                                    {
                                 <a asp-area="Admin" asp-controller="Home" asp-action="Index">Control Panel</a>
-                                @*}*@
+                                }
                             </li>
 
                             <li><a asp-area="Identity" asp-page="/Account/Manage/Index">@User.Identity?.Name</a></li>

@@ -9,39 +9,43 @@
 <hr />
 <hr />
 <hr />
-<div class="container">
-    <div class="row">
-        <div class="col-lg-8 col-md-8 col-sm-6">
-            <div class="section-title">
-                <h4>All Projects</h4>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        @foreach (var project in Model)
-        {
-            <div class="col-md-6 col-sm-6">
-                <div class="product_item">
-                    @if (@project.DesignPictureUrl != null)
-                    {
-                        <div class="product_item_pic set-bg" data-setbg="@project.DesignPictureUrl">
-                        </div>
-                    }
-                    else
-                    {
-                        <div class="product_item_pic set-bg" data-setbg="~/img/">
-                        </div>
-                    }
-                    <div class="product_item_text">
-                        <ul>
-                            <li>@project.Country</li>
-                        </ul>
-                        <h5>
-                            <a asp-controller="Projects" asp-action="Project" asp-route-id="@project.Id" class="btn">@project.ProjectName</a>
-                        </h5>
-                    </div>
+<div class="card-outline card-primary" style="width:20% ; margin:0 auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-6">
+                <div class="section-title">
+                    <h1 class="text-center text-primary">Projects</h1>
+                    <hr />
                 </div>
             </div>
-        }
+        </div>
+        <div class="row">
+            @foreach (var project in Model)
+            {
+                <div class="col-md-6 col-sm-6">
+                    <div class="product_item">
+                        @if (@project.DesignPictureUrl != null)
+                        {
+                            <div class="product_item_pic set-bg" data-setbg="@project.DesignPictureUrl">
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="product_item_pic set-bg" data-setbg="~/img/default-150x150">
+                            </div>
+                        }
+                        <div class="product_item_text">
+                            <ul>
+                                <li>@project.DesignPictureUrl</li>
+                                
+                            </ul>
+                            <h5>
+                                <a asp-controller="Projects" asp-action="Project" asp-route-id="@project.Id" class="btn">@project.ProjectName</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
     </div>
 </div>
