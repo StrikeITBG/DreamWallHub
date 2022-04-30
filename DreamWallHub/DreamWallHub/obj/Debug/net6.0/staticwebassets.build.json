@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tgV5fBjKW9N6ga/Tb3paRNAVI4Ex0kg2ziqwTpbLR9Q=",
+  "Hash": "SAbezkoyyjo8WPgabl+5aMgp44ECfEFZXvPUJxTEm2g=",
   "Source": "DreamWallHub",
   "BasePath": "_content/DreamWallHub",
   "Mode": "Default",
@@ -1698,6 +1698,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\about.jpeg",
+      "SourceId": "DreamWallHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\",
+      "BasePath": "_content/DreamWallHub",
+      "RelativePath": "images/about.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about.jpeg"
     },
     {
       "Identity": "D:\\Study\\C# WEB Module\\ASP.NET Core - February 2022\\DreamWallHub\\DreamWallHub\\DreamWallHub\\wwwroot\\images\\about-img1.jpg",
