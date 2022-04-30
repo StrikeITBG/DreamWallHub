@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2022-04-30T08:38:10.8225452Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-04-30T08:40:15.7505372Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "dreamwallfresh"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "4af58ebb-0556-4ab7-a1c2-c25eebf1ef83"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 ﻿@using DreamWallHub.Infrastructure.Data
 @model dynamic
 @{
-	ViewData["Title"] = "Project Details";
+    ViewData["Title"] = "Project Details";
 }
 
 <form method="post" style="width:20% ; margin:0 auto" asp-action="Create">
@@ -11,80 +11,60 @@
 </form>
 
 <div class="container">
-		<div class="details__content">
-			<div class="row">
-				<div class="col-lg-3">
-					@if (Model.Project.Image != null)
-					{
-						<div class="details__pic set-bg" data-setbg="@Model.Project.Image">
-						</div>
-					}
-					else
-					{
-						<div class="details__pic set-bg" data-setbg="~/img/default-150x150">
-						</div>
-					}
-				</div>
-				<div class="col-lg-9">
-					<div class="details__text">
-						<div class="details__title">
-							<h3>@Model.Project.ProjectName</h3>
-						</div>
+    <div class="details__content">
+        <div class="row">
+            <div class="col-lg-3">
+                <img src="@Model.Project.DesignPictureUrl">
+            </div>
+            <div class="col-lg-9">
+                <div class="details__text">
+                    <div class="details__title">
+                      <h3 class="text-primary">Project Name</h3>
+                        <h2>@Model.Project.ProjectName</h2>
+                    </div>
+                    <hr />
+                      <h3 class="text-primary">Description</h3>
+                    <p> 
+                        @Model.Project.Description
+                    </p>
+                    <hr />
+                </div>
+            </div>
+        </div>
+    </div>
+        <div>
+            <div class="details__form">
+                <div class="section-title">
+                    <h5>Your Review</h5>
+                </div>
+                <form id="createReview" enctype="multipart/form-data" method="post">
+                    <div class="form-group">
+                        <input value="@Model.Project.Id" name="ProjectId" type="hidden" class="form-control" />
+                    </div>
+                    <textarea value="@ViewBag.Description" name="Description" placeholder="Your Review Text" style="margin-bottom: 10px;"></textarea>
+                    <button type="submit" class="nav-link btn btn-primary btn-block" style="width: 40%; height: 50px;">Submit</button>
+                </form>
+            </div>
+            <div class="details__review" style="margin-top: 80px;">
+                <div class="section-title">
+                    <h5>Reviews</h5>
+                </div>
+                @foreach (var review in Model.Reviews)
+                {
+                    <div class="review__item">
+                        <div class="review__item__text">
+                            <h6>@review.UserName <span>@review.Date</span></h6>
+                            <p>
+                                <textarea name="Description" class="custom-text-area" disabled>@review.Description</textarea>
+                            </p>
+                            <p style="margin-top: 15px;">
+                                <a asp-area="" asp-action="ReviewComments" asp-controller="Comment" asp-route-id="@review.Id" class="btn btn-block btn-outline-info btn-xs">Comments: @review.CommentsCount</a>
+                            </p>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
 
-						<p>
-							@Model.Project.Description
-						</p>
-						<div class="details__widget">
-							<div class="row">
-								<div class="col-lg-6 col-md-6">
-									<ul>
-										@*<li><span>Studios:</span> @Model.Project.Studios</li>*@
-									</ul>
-								</div>
-								<div class="col-lg-6 col-md-6">
-									<ul>
-										@*<li><span>Duration:</span> @Model.Project.Duration</li>*@
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div>
-			<div>
-				<div class="details__form">
-					<div class="section-title">
-						<h5>Your Review</h5>
-					</div>
-					<form id="createReview" enctype="multipart/form-data" method="post">
-						<div class="form-group">
-							<input value="@Model.Project.Id" name="ProjectId" hidden class="form-control" />
-						</div>
-						<textarea value="@ViewBag.Description" name="Description" placeholder="Your Review Text" style="border-radius: 20px;margin-bottom: 10px; background: #1d1e39; color: white;"></textarea>
-						<button type="submit" class="nav-link btn btn-primary btn-block" style="width: 20%; height: 50px;">Submit</button>
-					</form>
-				</div>
-				<div class="details__review" style="margin-top: 80px;">
-					<div class="section-title">
-						<h5>Reviews</h5>
-					</div>
-					@foreach (var review in Model.Reviews)
-					{
-						<div class="review__item">
-							<div class="review__item__text">
-								<h6>@review.UserName <span>@review.Date</span></h6>
-								<p>
-									<textarea name="Description" class="custom-text-area" disabled>@review.Description</textarea>
-								</p>
-								<p style="margin-top: 15px;">
-									<a asp-area="" asp-action="ReviewComments" asp-controller="Comment" asp-route-id="@review.Id" class="btn btn-block btn-outline-info btn-xs">Comments: @review.CommentsCount</a>
-								</p>
-							</div>
-						</div>
-					}
-				</div>
-			</div>
-		</div>
-	</div>
+    <br />    <br />    <br />

@@ -24,19 +24,9 @@
             {
                 <div class="col-md-6 col-sm-6">
                     <div class="product_item">
-                        @if (@project.DesignPictureUrl != null)
-                        {
-                            <div class="product_item_pic set-bg" data-setbg="@project.DesignPictureUrl">
-                            </div>
-                        }
-                        else
-                        {
-                            <div class="product_item_pic set-bg" data-setbg="~/img/default-150x150">
-                            </div>
-                        }
                         <div class="product_item_text">
                             <ul>
-                                <li>@project.DesignPictureUrl</li>
+                                <li><img width="300" height="300" src="@project.DesignPictureUrl"></li>
                                 
                             </ul>
                             <h5>
